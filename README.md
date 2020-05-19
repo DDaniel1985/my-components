@@ -1,2 +1,0 @@
-# my-components
-general elements
